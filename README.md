@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoseLuisGalvis
+- 👋 Hi, I’m @Jose-Luis-Galvis
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning to program in Python, JAVA, C#, .net, create SQL databases and design web pages in HTML and CSS.
 - 💞️ I’m looking to collaborate in Software Development
